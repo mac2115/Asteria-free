@@ -1,0 +1,19 @@
+
+local games = {
+    ["10358162137"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
+    ["11440486855"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
+    ["11951469026"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
+    ["13788618880"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
+}
+
+if (games[tostring(game.PlaceId)] ~= nil) then
+    loadstring(game:HttpGet(games[tostring(game.PlaceId)]))()
+else    
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Game is not supported"; 
+        Text = "Game is not supported "; 
+        Icon = "rbxassetid://13781068953"; 
+        Duration = 20; 
+        })
+end
+
