@@ -4,6 +4,49 @@ local games = {
     ["11440486855"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
     ["11951469026"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
     ["13788618880"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Asteria%20weak%20legacy',
+    --//Entry point moment LMAO
+    ["740581508"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["740584350"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2139531728"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2140361857"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2215221144"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2500111229"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2625195454"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2652896498"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2677301983"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2797881676"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2951213182"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2957989822"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2981901025"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2991849143"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["2992970030"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["3200010305"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["3217976952"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["3590667014"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["3637958652"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["3746994358"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["3925577908"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4134003540"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4388762338"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4518266946"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4282472402"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4661507759"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4768829954"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4980319824"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4980299165"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4980337923"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["4988643789"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["5071816792"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["5188855685"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["5564290777"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["5862433299"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["6214650900"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["6214651226"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    ["77995302984"] = 'https://raw.githubusercontent.com/mac2115/Asteria-free/main/Entry%20Point',
+    --LMAOOOO
+
+
+    
 }
 
 if (games[tostring(game.PlaceId)] ~= nil) then
@@ -16,4 +59,3 @@ else
         Duration = 20; 
         })
 end
-
